@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 运行时状态（跨重启记忆）
+history.json
+*_state.json
+*state*.json
+
+# 测试临时文件
+*.log
+
+# 虚拟环境/缓存
+.venv/
