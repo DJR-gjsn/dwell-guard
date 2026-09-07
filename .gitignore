@@ -17,3 +17,6 @@ focus_*.json
 
 # 虚拟环境/缓存
 .venv/
+
+# 模型基准测试中间缓存
+bench_cache.json
