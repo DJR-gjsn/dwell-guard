@@ -8,6 +8,10 @@ history.json
 *_state.json
 *state*.json
 
+# 压力测试结果文件（本地生成的 json）
+focus_*.json
+*_results.json
+
 # 测试临时文件
 *.log
 
